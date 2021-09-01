@@ -1,6 +1,9 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "SteinsGate.json",
+    "Cyberpunk.json",
+    "Cursed_Emotes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
