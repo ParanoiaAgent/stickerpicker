@@ -1,10 +1,7 @@
 {
   "packs": [
-    "emotes.json",
     "SteinsGate.json",
     "Cyberpunk.json",
-    "Cursed_Emotes.json",
-    "Emotes.json",
     "CursedStickers.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
