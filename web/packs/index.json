@@ -3,7 +3,8 @@
     "emotes.json",
     "SteinsGate.json",
     "Cyberpunk.json",
-    "Cursed_Emotes.json"
+    "Cursed_Emotes.json",
+    "Emotes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
